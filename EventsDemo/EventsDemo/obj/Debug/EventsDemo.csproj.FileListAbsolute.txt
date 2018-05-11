@@ -1,0 +1,10 @@
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe.config
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\bin\Debug\EventsDemo.pdb
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csprojAssemblyReference.cache
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.Form1.resources
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.Properties.Resources.resources
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.GenerateResource.cache
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.exe
+C:\VsProjects\Fundamentals\EventsDemo\EventsDemo\obj\Debug\EventsDemo.pdb

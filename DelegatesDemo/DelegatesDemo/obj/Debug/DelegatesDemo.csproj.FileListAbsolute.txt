@@ -1,0 +1,10 @@
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.Form1.resources
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.Properties.Resources.resources
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.GenerateResource.cache
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\VsProjects\Fundamentals\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb
