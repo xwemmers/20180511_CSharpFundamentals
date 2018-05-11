@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <h1>Een voorbeeldpagina</h1>
+
+    <p>
+        Dit is de eerste alinea.
+    </p>
+
+    Deze pagina is aangemaakt op @DateTime.Now.
+
+
+    <ul>
+        @for(int i=1; i<=10; i++)
+        {
+            <li>Nummer @i</li>
+        }
+    </ul>
+
+    De som van 2 en 2 is @(2+2).
+
+    De combinatie van C# en HTML heet Razor
+
+</body>
+</html>

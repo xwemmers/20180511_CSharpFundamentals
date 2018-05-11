@@ -1,0 +1,34 @@
+﻿@model string[]
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AlleStudenten</title>
+</head>
+<body>
+
+    <h1>Alle studenten</h1>
+
+    <h4>Er zijn @Model.Count() studenten</h4>
+
+    <ul>
+
+        @foreach (string naam in Model)
+        {
+            <li>@naam</li>
+        }
+
+    </ul>
+
+
+    <h3>@ViewBag.Boodschap</h3>
+
+</body>
+</html>
